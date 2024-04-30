@@ -1,0 +1,11 @@
+body{
+    background-color: #f5d14f;
+    font-family: "Figtree", sans-serif;
+}
+.friends{
+    font-weight: 800;
+}
+.card{
+    box-shadow: 12px 9px 1px hwb(0 7% 93%) !important;
+    border-color: hsl(0, 0%, 7%);
+}
